@@ -1,2 +1,10 @@
 # WebChat
-A Mini Web chat with spring MVC
+----------------------------------------------------
+@Date : 01/02/2017
+@author : aloketewary
+A Mini Web chat application with spring MVC 
+----------------------------------------------------
+@version - 0.01 -beta
+################## 01-02-2017 ######################
+
+
